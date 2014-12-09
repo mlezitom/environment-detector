@@ -1,9 +1,9 @@
 {
-    "name": "mlezitom/environmentDetector",
+    "name": "mlezitom/environment-detector",
     "type": "library",
     "version": "0.9.0",
-    "description": "EnvironmentDetector",
-    "homepage": "https://github.com/mlezitom/EnvironmentDetector",
+    "description": "Environment detector",
+    "homepage": "https://github.com/mlezitom/environment-detector",
     "license": [
       "GPL-3.0"
     ],
