@@ -1,10 +1,8 @@
 <?php
-use Nette\DI\Container;
-
 /**
- * Description of EnvironmentDetector
+ * mlezitom/environmentDetector
  *
- * @author Tomáš
+ * @author Tomas Mleziva
  */
 class EnvironmentDetector {
     
