@@ -1,0 +1,20 @@
+{
+    "name": "mlezitom/environmentDetector",
+    "type": "library",
+    "version": "0.9.0",
+    "description": "EnvironmentDetector",
+    "homepage": "https://github.com/mlezitom/EnvironmentDetector",
+    "license": [
+      "GPL-3.0"
+    ],
+    "authors": [
+        {
+            "name": "Tomas Mleziva",
+            "email": "mlezivat@gmail.com",
+            "homepage": "http://github.com/mlezitom"
+        }
+    ],
+    "require": {
+        "nette/neon": "2.2.*"
+    }
+}
