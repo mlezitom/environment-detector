@@ -1,0 +1,8 @@
+production:
+	- www.domain.com
+	- domain.com
+development:
+	- project-dev.domain.com
+localhost:
+	- localhost
+	- "127.0.0.1"
