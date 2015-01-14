@@ -14,9 +14,12 @@ class EnvironmentDetector {
     const SECTION_DEVELOPMENT = "development";
     const SECTION_LOCALHOST = "localhost";
     
-    public function __construct() {
+    public function __construct($neon = NULL) {
         $this->domain = $_SERVER['HTTP_HOST'];
         $this->ip = $_SERVER['REMOTE_ADDR'];
+		if($neon) {
+			$this->loadNeon($neon);
+		}
     }
     
     public function loadNeon($neonFile) {
