@@ -15,6 +15,6 @@
 		}
 	],
 	"require": {
-		"nette/neon": ">2.2.0"
+		"nette/neon": ">=2.2"
 	}
 }
